@@ -102,7 +102,7 @@
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
     "lodash": "=3.10.1",
-    "node-x25x": "git://github.com/wkibbler/node-x25x.git#master"
+    "node-x16r": "git://github.com/underdarkskies/node-x16r.git#master"
   },
   "devDependencies": {
     "bitcore-build-XBTS": "git://github.com/wkibbler/bitcore-build-XBTS#master",
